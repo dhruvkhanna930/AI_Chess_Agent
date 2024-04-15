@@ -37,6 +37,12 @@ Once the program is running, you can start playing chess against the AI opponent
 
 
 
+## Project Report
+
+[Proejct Report of AI Chess Agent](Media/ProjectReport.pdf)
+
+
+
 ## Features
 
 - Heuristics-based AI for analyzing board positions and prioritizing moves.
@@ -46,9 +52,19 @@ Once the program is running, you can start playing chess against the AI opponent
 
 
 
-## Contributing
+## Authors
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+- **Dhruv Khanna**
+  - [GitHub](https://github.com/dhruvkhanna930)
+  - [LinkedIn](https://www.linkedin.com/in/dhruvkhanna930/)
+- **Ravjot Singh**
+  - [GitHub](https://github.com/ravjot07)
+  - [LinkedIn](https://www.linkedin.com/in/ravjot-singh-6ba229257/)
+- **Rudra Suthar**
+  - [GitHub](https://github.com/Rudra1502)
+  - [LinkedIn](https://www.linkedin.com/in/rudra-suthar-051205257/)
+
+
 
 
 ## Feedback
